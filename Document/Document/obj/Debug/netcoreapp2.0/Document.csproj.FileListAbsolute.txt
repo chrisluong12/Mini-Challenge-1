@@ -1,0 +1,11 @@
+/Users/christopherluong/Projects/Document/Document/bin/Debug/netcoreapp2.0/Document.deps.json
+/Users/christopherluong/Projects/Document/Document/bin/Debug/netcoreapp2.0/Document.runtimeconfig.json
+/Users/christopherluong/Projects/Document/Document/bin/Debug/netcoreapp2.0/Document.runtimeconfig.dev.json
+/Users/christopherluong/Projects/Document/Document/bin/Debug/netcoreapp2.0/Document.dll
+/Users/christopherluong/Projects/Document/Document/bin/Debug/netcoreapp2.0/Document.pdb
+/Users/christopherluong/Projects/Document/Document/obj/Debug/netcoreapp2.0/Document.csprojResolveAssemblyReference.cache
+/Users/christopherluong/Projects/Document/Document/obj/Debug/netcoreapp2.0/Document.csproj.CoreCompileInputs.cache
+/Users/christopherluong/Projects/Document/Document/obj/Debug/netcoreapp2.0/Document.AssemblyInfoInputs.cache
+/Users/christopherluong/Projects/Document/Document/obj/Debug/netcoreapp2.0/Document.AssemblyInfo.cs
+/Users/christopherluong/Projects/Document/Document/obj/Debug/netcoreapp2.0/Document.dll
+/Users/christopherluong/Projects/Document/Document/obj/Debug/netcoreapp2.0/Document.pdb
